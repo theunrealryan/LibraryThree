@@ -1,1 +1,1 @@
-# LibraryThree
+Projeto de implementação de uma árvore de busca binária para gestão de uma biblioteca durante a disciplina de Estrutura de Dados no segundo período (2024.1) de Engenharia de Software na Universidade do Estado do Pará.
